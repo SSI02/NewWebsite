@@ -1,0 +1,112 @@
+body{
+  background-image: url(int1_background.jpg) ;
+  color: white;
+  font-family: lobster;
+  text-align: center;
+  line-height: 2;
+}
+
+h3{
+  font-weight: lighter;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-family: lobster;
+}
+
+.img3{
+  height:50px;
+  width: 200px;
+}
+
+.span1{
+  text-decoration: underline;
+  font-family: serif;
+}
+
+.skill1{
+  font-family: serif;
+  word-spacing: 30px;
+}
+
+.h2_1{
+  font-size: 50px;
+}
+
+.img2{
+  position: relative;
+  margin-top: 100px;
+  border-radius: 130px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+a{
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  background-color: white;
+  border-radius: 8px;
+  font-family: fantasy;
+
+}
+
+.h1_1{
+  position: relative;
+  margin-top: 50px;
+}
+
+.img1{
+  position: relative;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top : 175px;
+  width: 100px;
+  height : 100px;
+}
+
+.img4{
+  border-radius: 50%;
+  height: 50px;
+  width : 50px;
+}
+
+.break1{
+  width:30%;
+}
+
+a:hover{
+  color: orange;
+}
+
+.btn {
+  line-height: 3;
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #4c5154);
+  background-image: -moz-linear-gradient(top, #000000, #4c5154);
+  background-image: -ms-linear-gradient(top, #000000, #4c5154);
+  background-image: -o-linear-gradient(top, #000000, #4c5154);
+  background-image: linear-gradient(to bottom, #000000, #4c5154);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #8c9194;
+  background-image: -webkit-linear-gradient(top, #8c9194, #00090f);
+  background-image: -moz-linear-gradient(top, #8c9194, #00090f);
+  background-image: -ms-linear-gradient(top, #8c9194, #00090f);
+  background-image: -o-linear-gradient(top, #8c9194, #00090f);
+  background-image: linear-gradient(to bottom, #8c9194, #00090f);
+  text-decoration: none;
+}
